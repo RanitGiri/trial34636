@@ -1,1 +1,2 @@
 Hello I am Ranit Giri. Today I am experimenting with how to use git.
+This is second day I want to be a git master,Which dosent make sense at all.
