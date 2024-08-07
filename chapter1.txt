@@ -1,2 +1,3 @@
 Hello I am Ranit Giri. Today I am experimenting with how to use git.
-This is second day I want to be a git master,Which dosent make sense at all.
+This is the second day I want to be a git master, Which doesn't make sense at all.
+I can't understand how branching works.
